@@ -1,0 +1,14 @@
+C:\Users\SHIKHON\source\repos\Basic_OOP\bin\Debug\net8.0\Basic_OOP.exe
+C:\Users\SHIKHON\source\repos\Basic_OOP\bin\Debug\net8.0\Basic_OOP.deps.json
+C:\Users\SHIKHON\source\repos\Basic_OOP\bin\Debug\net8.0\Basic_OOP.runtimeconfig.json
+C:\Users\SHIKHON\source\repos\Basic_OOP\bin\Debug\net8.0\Basic_OOP.dll
+C:\Users\SHIKHON\source\repos\Basic_OOP\bin\Debug\net8.0\Basic_OOP.pdb
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.AssemblyInfoInputs.cache
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.AssemblyInfo.cs
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.csproj.CoreCompileInputs.cache
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.dll
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\refint\Basic_OOP.dll
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.pdb
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\Basic_OOP.genruntimeconfig.cache
+C:\Users\SHIKHON\source\repos\Basic_OOP\obj\Debug\net8.0\ref\Basic_OOP.dll
